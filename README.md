@@ -4,7 +4,7 @@
 
 🌟 A passionate full-stack web developer and creative enthusiast, currently focused on building responsive admin dashboards, modern UIs, and robust backend services.
 <br><br>
-🎓 I'm exploring advanced React patterns, clean API integrations, and deploying real-world applications that blend functionality with sleek design.
+🎓 I'm exploring React patterns, clean API integrations, and deploying real-world applications that blend functionality with sleek design.
 <br>
 <br><br>
 <br>
