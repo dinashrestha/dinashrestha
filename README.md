@@ -36,7 +36,7 @@
 A full-stack admin dashboard to manage blogs, team content, services (meditation, astrology, real estate, etc.)  
 **Tech Used**: React, Tailwind, Express, MongoDB
 
-### 🛠️ Project Assignment Tool  
+### 🛠️ Project Assignment Tool 
 Dynamic project assignment interface with task management, progress tracking, and calendar integrations  
 **Tech Used**: React Hooks, Context API, Custom UI Components
 
