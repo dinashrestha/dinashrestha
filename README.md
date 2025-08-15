@@ -2,10 +2,9 @@
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*yBvA5CnEX3Sd4aod.gif" width="250" />
 
-🌟 A passionate full-stack web developer and creative enthusiast, currently focused on building responsive admin dashboards, modern UIs, and robust backend services.
+🌟A passionate Frontend Developer with a flair for designing responsive dashboards, modern user interfaces, and interactive web experiences.
 <br><br>
-🎓 I'm exploring React patterns, clean API integrations, and deploying real-world applications that blend functionality with sleek design.
-<br>
+🎓 Currently diving deeper into advanced React patterns, clean API integrations, and performance optimization to deliver applications that are both visually appealing and highly functional.
 <br><br>
 <br>
 
