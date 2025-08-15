@@ -10,16 +10,6 @@
 <br>
 
 
-
-
-## 🧰 What I Do
-
-- ⚛️ **Frontend Development** – Building clean, scalable UIs using **React.js**, **Vite**, and **Tailwind CSS**  
-- 🔒 **Auth & Security** – Handling user authentication and protected routes  
-- 🧠 **Learning Daily** – Always experimenting with new tools, especially in the web ecosystem
-
-
-
 ## 🛠️ Tech Stack
 
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
