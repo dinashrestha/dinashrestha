@@ -61,4 +61,4 @@
 </p>
 
 
-_Thanks for stopping by! Feel free to explore my work, fork a project, or just say hello 😊_
+_Thanks for stopping by! Feel free to explore my work, or just say hello 😊_
